@@ -1,0 +1,48 @@
+body {
+    padding-bottom: 20%;
+    font-family: sans-serif;
+}
+
+#centerimg {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 45%;
+    height: 45%;
+}
+
+#title {
+    font-size: 250%;
+    text-align: center;
+}
+
+
+#menstitle {
+    font-size: 250%;
+    color: darkgreen;
+    padding-bottom: 4%;
+}
+
+#mens {
+    font-size: 250%;
+    text-align: center;
+}
+
+#basetext {
+    font-size: 150%;
+    text-align: center;
+    padding-right: 20%;
+    padding-left: 20%; 
+}
+
+#about-me {
+    margin-top: 4%;
+    margin-bottom: 4%;
+}
+
+#leftcenter {
+    margin: auto;
+    width: 50%; 
+    padding-right: 10%;
+    padding-left: 10%; 
+}
